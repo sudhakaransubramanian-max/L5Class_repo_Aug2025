@@ -1,0 +1,14 @@
+switches:
+  leafs:
+    - leaf1
+    - leaf2
+    - leaf3
+    - leaf4
+  spines:
+    - spine1
+    - spine2
+    - spine3
+    - spine4
+  borderleafs:
+    - borderleaf1
+    - borderleaf2
